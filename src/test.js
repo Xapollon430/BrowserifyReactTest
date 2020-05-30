@@ -1,5 +1,5 @@
 const React = require("react");
 
-let Paragraph = <p>It actually works</p>;
+let Paragraph = <p>It actually works!</p>;
 
 module.exports = Paragraph;

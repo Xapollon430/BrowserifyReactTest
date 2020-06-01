@@ -5,6 +5,7 @@
   "main": "test.js",
   "dependencies": {
     "babelify": "^10.0.0",
+    "mongodb": "^3.5.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "reactify": "^1.1.1",

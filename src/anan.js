@@ -17,7 +17,7 @@ function App() {
           console.log("changed blue");
           // e.persist();
           console.log(e);
-          // console.log(e.target);
+          console.log(e.target);
         }}
         onChangeCapture={() => console.log("captured blue")}
       >
